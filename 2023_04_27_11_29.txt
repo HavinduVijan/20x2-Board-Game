@@ -1,0 +1,9 @@
+Human
+Total moves :14
+Black Hole Hits :1
+Lost the game
+
+Computer
+Total moves :17
+Black Hole Hits :1
+Won the game
